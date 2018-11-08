@@ -1,0 +1,24 @@
+{
+  "name": "resthub",
+  "version": "1.0.0",
+  "description": "RestFul Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarowar-al-amin/ContactList.git"
+  },
+  "author": "Md. Sarowar Al-Amin (Sajib)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarowar-al-amin/ContactList/issues"
+  },
+  "homepage": "https://github.com/sarowar-al-amin/ContactList#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.10"
+  }
+}
